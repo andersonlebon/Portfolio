@@ -2,6 +2,8 @@
 
 ## Description
 
+> [Mobile version](https://user-images.githubusercontent.com/65068771/120800354-1e306900-c540-11eb-8945-c6ea7f356d6e.png)
+
 > The main purposes of the project are:
 
 - Understand how to parse a Figma design to create a UI.
