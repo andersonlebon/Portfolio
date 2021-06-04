@@ -2,6 +2,8 @@
 
 ## Description
 
+> Here is the mobile version ![127 0 0 1_5501_index html(iPhone 6_7_8) (2)](https://user-images.githubusercontent.com/65068771/120803270-a95f2e00-c543-11eb-8957-a59f9130fefb.png)
+
 > The main purposes of the project are:
 
 - Understand how to parse a Figma design to create a UI.
