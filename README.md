@@ -2,7 +2,7 @@
 
 ## Description
 
-> [Mobile version](https://user-images.githubusercontent.com/65068771/120800354-1e306900-c540-11eb-8945-c6ea7f356d6e.png)
+> Here is the mobile version ![127 0 0 1_5501_index html(iPhone 6_7_8) (2)](https://user-images.githubusercontent.com/65068771/120803270-a95f2e00-c543-11eb-8957-a59f9130fefb.png)
 
 > The main purposes of the project are:
 
